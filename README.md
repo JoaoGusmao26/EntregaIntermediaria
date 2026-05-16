@@ -17,5 +17,10 @@ Este repositório reúne meus projetos acadêmicos, pessoais e profissionais, or
 - SQL
 - Git/GitHub
 
+- ## Contato
+
+- LinkedIn: (https://www.linkedin.com/in/jo%C3%A3o-pedro-de-gusm%C3%A3o-silva-a8446640a/)
+- GitHub: https://github.com/JoaoGusmao26
+
 ## Objetivo
 Desenvolver um portfólio profissional robusto para apresentação acadêmica e mercado de trabalho.
