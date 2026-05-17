@@ -12,7 +12,6 @@ Este repositório reúne meus projetos acadêmicos, pessoais e profissionais, or
 ## Tecnologias Utilizadas
 - HTML
 - CSS
-- JavaScript
 - Python
 - SQL
 - Git/GitHub
